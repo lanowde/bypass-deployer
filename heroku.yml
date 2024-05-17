@@ -1,0 +1,5 @@
+build:
+  docker:
+    gayradar: Dockerfile
+run:
+  gayradar: chmod u+x run; ./run
