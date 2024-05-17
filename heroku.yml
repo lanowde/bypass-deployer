@@ -2,4 +2,4 @@ build:
   docker:
     gayradar: Dockerfile
 run:
-  gayradar: chmod u+x run; ./run
+  gayradar: chmod u+x run && bash run
