@@ -36,11 +36,11 @@
         },
         "HEROKU_API": {
             "description": "Heroku API token. Mandatory for Heroku Deploy",
-            "value": "",
+            "value": ""
         },
         "HEROKU_APP_NAME": {
             "description": "Name of your Heroku app, given in the first blank on this page.",
-            "value": "",
+            "value": ""
         }
     },
     "formation": {
